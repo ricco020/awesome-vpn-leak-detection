@@ -53,7 +53,7 @@ A VPN connection can leak data through at least eight channels :
 
 | Project | Language | Scope | License |
 |---------|----------|-------|---------|
-| [webrtc-leak-detector](https://github.com/ricco020/webrtc-leak-detector) | JS | WebRTC public + local + mDNS | MIT |
+| [webrtc-leak-detector](https://www.npmjs.com/package/webrtc-leak-detector) ([source](https://github.com/ricco020/webrtc-leak-detector)) | JS | WebRTC public + local + mDNS | MIT |
 | [dnsleaktest-cli](https://github.com/macvk/dnsleaktest) | Shell | DNS extended (Linux/Mac) | GPL-3.0 |
 | [ipleak-cli](https://github.com/jonludlam/ipleak) | Go | Multi-channel | MIT |
 | [vpncheck](https://github.com/mullvad/dnscheck) | Go | DNS + connection state | GPL-3.0 |
@@ -177,3 +177,4 @@ The criteria for inclusion :
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the maintainers have waived all copyright and related or neighboring rights to this work.
+
